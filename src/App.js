@@ -41,19 +41,6 @@ function App() {
             </a>
           </div>
 
-          <div className="contact">
-            <h3>Contact</h3>
-            <div className="contact-item">
-              <span className="label">Email:</span>
-              <a href="mailto:xukololz7@gmail.com" className="contact-link">
-                xukololz7@gmail.com
-              </a>
-            </div>
-            <div className="contact-item">
-              <span className="label">Discord:</span>
-              <span className="contact-link">lxzy</span>
-            </div>
-          </div>
         </div>
 
         <div className="footer">
