@@ -2,7 +2,7 @@
   "name": "saltypro-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lxzyme.github.io/SaltyPro",
+  "homepage": "https://purepython.website",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
