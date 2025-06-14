@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SaltyPro/static/css/main.be383c22.css",
+    "main.js": "/SaltyPro/static/js/main.dae44046.js",
+    "index.html": "/SaltyPro/index.html",
+    "main.be383c22.css.map": "/SaltyPro/static/css/main.be383c22.css.map",
+    "main.dae44046.js.map": "/SaltyPro/static/js/main.dae44046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be383c22.css",
+    "static/js/main.dae44046.js"
+  ]
+}
